@@ -1,0 +1,7 @@
+# _config.yml
+title: Home of Nianbest
+theme: reimu
+deploy:
+  type: git
+  repo: https://github.com/Nianbest01/nianbest01.github.io.git
+  branch: main
